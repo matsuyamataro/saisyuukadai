@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>自己紹介</title>
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="自己紹介サイトを製作しました！ ">
+    <link rel="stylesheet" href="saisyuukadao.css"
+    <div class="photo0"></div>
+<img src="header.png" class="photo0" 
+</head>
+
+<body>
+    	<div class="bg_pattern DOT"></div>
+    <div class="photo1"></div>
+    <img src="自己紹介.png" class="photo1"
+
+</body>
+</html>
+
+
+<div class="photo"></div>
+<img src="IMG_9265.JPG" class="photo" 
+
+<div class="univ"></div>
+
+<ul>
+    <h2>学歴</h2>
+   <li> <a href="http://www.hi.ehime-u.ac.jp/">愛媛大学附属高校 総合学科</a>卒業</li>
+   <a href="https://www.matsuyama-u.ac.jp/">松山大学経営学部経営学科</a>
+   
+    <h2>仕事</h2>
+    <li>映像編集フリーランス</li>
+    <a href="https://school.dhw.co.jp/school/matsuyama/">デジタルハリウッド松山</a>
+    <h2>趣味</h2>
+    <li>バイク</li>
+    <li>サウナ</li>
+    <li>クルマ</li>
+</ul>
+
+<h3>
+    松岡佳吾</br>
+生年月日　6月15日</br>
+血液型　A型</br>
+好きなリリック</br>
+最低なコンプだし、最高の昆布だし。（ずっと真夜中でいいのに。綺羅キラー）</br>
+
+</h3>
+
